@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Board Game",
+"dataUrl": "Assets.data.unityweb",
+"asmCodeUrl": "Assets.asm.code.unityweb",
+"asmMemoryUrl": "Assets.asm.memory.unityweb",
+"asmFrameworkUrl": "Assets.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
